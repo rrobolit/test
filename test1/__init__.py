@@ -1,1 +1,2 @@
-import module1
+def test():
+  print('Hello, test')
