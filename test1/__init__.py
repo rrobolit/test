@@ -1,2 +1,2 @@
-def test():
+def test_ini():
   print('Hello, test')
